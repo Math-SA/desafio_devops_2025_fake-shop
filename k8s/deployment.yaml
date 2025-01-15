@@ -52,7 +52,7 @@ spec:
     spec:
       containers:
       - name: fakeshop
-        image: mathsa/desafio-devops-fake-shop:v1
+        image: mathsa/desafio-devops-fake-shop:v2
         ports:
         - containerPort: 5000
         env:
